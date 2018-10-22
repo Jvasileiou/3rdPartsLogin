@@ -1,2 +1,3 @@
-# AwesomePatternLang
-Desktop App
+# Third Parts Login - Facebook / Gmail / Twitter SDK with Firebase  
+
+
