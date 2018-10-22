@@ -8,8 +8,8 @@
 
 ### Setup
   
-1)  Sign up and create a new Firebase.
-2)  Create apps for each provider on their developer consoles. See the Firebase authentication provider docs for more details.
+1)Sign up and create a new Firebase.
+2)Create apps for each provider on their developer consoles. See the Firebase authentication provider docs for more details.
 ####        - Facebook
 ####        - Google
 ####        - Twitter
