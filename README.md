@@ -1,3 +1,3 @@
-# Third Parts Login - Facebook / Gmail / Twitter SDK with Firebase  
+# Facebook / Gmail / Twitter SDK with Firebase  
 
 
