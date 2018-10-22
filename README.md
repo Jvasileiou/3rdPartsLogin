@@ -19,5 +19,8 @@
                       
 4.Populate all of the values in res/values/keys.xml.
 
-Also,you propably need to read the 
-#### documentations. 
+Also,you propably need to read the documentations
+#### Links:
+https://firebase.google.com/docs/auth/android/facebook-login
+https://firebase.google.com/docs/auth/android/google-signin
+https://firebase.google.com/docs/auth/android/twitter-login
