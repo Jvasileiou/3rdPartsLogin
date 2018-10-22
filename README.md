@@ -21,6 +21,10 @@
 
 Also,you propably need to read the documentations
 #### Links:
-https://firebase.google.com/docs/auth/android/facebook-login
-https://firebase.google.com/docs/auth/android/google-signin
+https://firebase.google.com/docs/auth/android/facebook-login                                          
+https://firebase.google.com/docs/auth/android/google-signin                         
 https://firebase.google.com/docs/auth/android/twitter-login
+
+
+### Author             
+John Vasileiou
