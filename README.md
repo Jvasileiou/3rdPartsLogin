@@ -13,8 +13,10 @@
 2.Create apps for each provider on their developer consoles. See the Firebase authentication provider docs for more details.
 ####        - Facebook
 ####        - Google
-####        - Twitter
-3.Enable Facebook, Google, Twitter, Email, and Anonymous providers on the Firebase Dashboard for your app. See the enabling providers       section of the Firebase user authentication docs for more details.
+####        - Twitter                            
+           
+3.Enable Facebook, Google, Twitter, Email, and Anonymous providers on the Firebase Dashboard for your app. See the enabling providers       section of the Firebase user authentication docs for more details. 
+                      
 4.Populate all of the values in res/values/keys.xml.
 
 Also,you propably need to read the 
